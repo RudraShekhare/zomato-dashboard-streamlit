@@ -1,4 +1,5 @@
 import streamlit as st
+import gdown
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
@@ -8,8 +9,19 @@ import folium
 from streamlit_folium import folium_static
 
 # Load the dataset
-df = pd.read_csv("/Users/rudrashekhare/Downloads/zomato.csv", encoding='latin-1')
 
+file_id = "1TeOlC5b3Bl0oMWdynuZPz767RhaTpJSp"
+
+download_url = f"https://drive.google.com/uc?id={file_id}"
+
+output = "zomato.csv"
+
+import os
+if not os.path.exists(output):
+    gdown.download(download_url, output, quiet=False)
+
+# Now load the CSV
+df = pd.read_csv(output, encoding='latin-1')
 
 
 # Data Cleaning
