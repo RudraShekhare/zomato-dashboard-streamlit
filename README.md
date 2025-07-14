@@ -60,3 +60,7 @@ Rudra Shekhare
 Star this repo and share it with others!
 
 ## Liscense 
+MIT License
+Copyright (c) 2025 Rudra Shekhare
+![License](https://img.shields.io/badge/License-MIT-green.svg)
+
