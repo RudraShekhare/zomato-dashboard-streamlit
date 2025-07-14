@@ -34,6 +34,7 @@ An interactive Streamlit dashboard for exploring Zomato restaurant data using fi
 # Clone the repository
 git clone https://github.com/RudraShekhare/zomato-dashboard-streamlit.git
 cd zomato-dashboard-streamlit
+```
 
 # Install dependencies
 pip install -r requirements.txt
@@ -42,21 +43,17 @@ pip install -r requirements.txt
 streamlit run app.py
 
 
-📷 Screenshot
-Zomato Dashboard UI Preview
-
-
-🧠 Use Cases
+# 🧠 Use Cases
 Data-driven restaurant insights
 
 Food-tech business analysis
 
 Beginner-friendly data science demo
 
-🙋‍♂️ Author
+# 🙋‍♂️ Author
 Rudra Shekhare
-📧 rudrashekhare@example.com
-🔗 LinkedIn
+📧 rudra282805@gmail.com
+🔗 LinkedIn : www.linkedin.com/in/rudra-shekhare-006987279
 
-⭐ Like this project?
+# ⭐ Like this project?
 Star this repo and share it with others!
