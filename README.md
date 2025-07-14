@@ -1,4 +1,5 @@
 # 🍽️ Zomato Restaurant Data Dashboard (Streamlit)
+![License](https://img.shields.io/badge/License-MIT-green.svg)
 
 An interactive Streamlit dashboard for exploring Zomato restaurant data using filters and visualizations.
 
@@ -57,3 +58,5 @@ Rudra Shekhare
 
 ## ⭐ Like this project?
 Star this repo and share it with others!
+
+## Liscense 
