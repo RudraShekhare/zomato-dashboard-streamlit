@@ -36,24 +36,24 @@ git clone https://github.com/RudraShekhare/zomato-dashboard-streamlit.git
 cd zomato-dashboard-streamlit
 ```
 
-# Install dependencies
+## Install dependencies
 pip install -r requirements.txt
 
-# Run the app
+## Run the app
 streamlit run app.py
 
 
-# 🧠 Use Cases
+## 🧠 Use Cases
 Data-driven restaurant insights
 
 Food-tech business analysis
 
 Beginner-friendly data science demo
 
-# 🙋‍♂️ Author
+## 🙋‍♂️ Author
 Rudra Shekhare
 📧 rudra282805@gmail.com
 🔗 LinkedIn : www.linkedin.com/in/rudra-shekhare-006987279
 
-# ⭐ Like this project?
+## ⭐ Like this project?
 Star this repo and share it with others!
