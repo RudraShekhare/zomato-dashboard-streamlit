@@ -1,8 +1,9 @@
-# 🍽️ Zomato Restaurant Data Dashboard (Streamlit)
+# 🍽️ Zomato Restaurant Data Dashboard (Streamlit)  
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
-[![Streamlit App](https://img.shields.io/badge/Live-Dashboard-green?logo=streamlit)](https://zomato-dashboard-app-bfj9ucj8yujig3vmbdehyy.streamlit.app/)
+
 
 An interactive Streamlit dashboard for exploring Zomato restaurant data using filters and visualizations.
+![License](https://img.shields.io/badge/License-MIT-green.svg)
 
 ![screenshot1](assets/sc1.png)
 ![screenshot2](assets/sc2.png)
