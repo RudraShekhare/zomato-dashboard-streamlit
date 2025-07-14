@@ -2,7 +2,12 @@
 
 An interactive Streamlit dashboard for exploring Zomato restaurant data using filters and visualizations.
 
-![Screenshot](assets/screenshot.png)
+![screenshot1](assets/sc1.png)
+![screenshot2](assets/sc2.png)
+![screenshot3](assets/sc3.png)
+![screenshot4](assets/sc4.png)
+![screenshot5](assets/sc5.png)
+
 
 ---
 
